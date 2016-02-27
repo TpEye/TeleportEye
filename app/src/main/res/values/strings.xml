@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TeleportEye</string>
+    <string name="facebook_button">Sign in with Facebook</string>
+    <string name="google_button">Sign in with Google</string>
+    <string name="twitter_button">Sign in with Twitter</string>
+    <string name="main_app_text_view">TELEPORTEYE</string>
+    <string name="main_app_desc_text_view">THE FUTURE IS HERE</string>
+</resources>
